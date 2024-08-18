@@ -9,7 +9,7 @@
 ## Running Experiments
 
 **To submit the code as a job to slurm:**
-    ```sh
+    ```
     sh train.sh
     ```
 
