@@ -20,8 +20,9 @@ Other Files
 * utils.py: Contains functions responsible for saving data, loading datasets, etc.
 * models: Contains implementations of networks used in training.
 
-<h3> Citation </h3>
 <br />
+<hr> 
+<h3> Citation </h3>
 
 ```bib
 @article{galanti2023comparative,
