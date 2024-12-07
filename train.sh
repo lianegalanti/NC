@@ -14,7 +14,7 @@ source activate pytorch
 
 chmod u=rwx,g=r,o=r /program.sh
 chmod u=rwx,g=r,o=r /train.py
-module load openmind/gcc/11.1.0
+module load <namespace>/gcc/11.1.0
 
 DIRS=($(ls -v -d ./results_new/*))
 idx=${DIRS[-1]}
