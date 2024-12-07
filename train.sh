@@ -1,4 +1,6 @@
 #!/bin/bash
+#SBATCH --qos=<qos_name>
+#SBATCH -p <partition_name>
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
